@@ -1,16 +1,88 @@
-## Hi there 👋
+![](https://i.postimg.cc/9Mt2BQDb/github-header-image.png)  
+  
 
-<!--
-**DavidIGaspar/DavidIGaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">Olá! Eu sou o David 👨‍💻  
+Estudante de Ciência da Computação | Futuro Dev Full Stack</div>  
+  
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando em projetos em JavaScript e lógica de programação em C.  
+- 🌱 Aprendendo: JavaScript | C | HTML/CSS | SQL  
+- 🎯 Buscando estágio na área de TI para aplicar meus conhecimentos e crescer como desenvolvedor.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>  
+
+
+## 🧠 Habilidades  
+<p align="center">
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin-right: 20px;" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin-right: 20px;" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  </a>
+</p>
+
+
+<br/>  
+
+
+## 📲 Conecte-se comigo  
+<div align="center">
+
+<a href="https://x.com/david_gaspar_" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/david-gaspar-d4vd" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.facebook.com/david.gaspar.9237" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/david__gaspar/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>  
+
+</div>  
+
+
+<br/>  
+
+
+## 📊 GitHub Stats  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DavidIGaspar&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidIGaspar&layout=compact&theme=radical&langs_count=7&hide=Shell,Batch,Java" />
+        <br/>
+      
+  </table>
+</div>  
+
+
+<br/>  
+
+---
+
