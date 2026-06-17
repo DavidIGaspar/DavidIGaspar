@@ -2,12 +2,12 @@
   
 
 ### <div align="center">Olá! Eu sou o David 👨‍💻  
-Estudante de Ciência da Computação | Futuro Dev Full Stack</div>  
+Estudante de Ciência da Computação | Desenvolvedor em Formação</div>  
   
 
-- 🔭 Atualmente trabalhando em projetos em JavaScript e lógica de programação em C.  
-- 🌱 Aprendendo: JavaScript | C | HTML/CSS | SQL  
-- 🎯 Buscando estágio na área de TI para aplicar meus conhecimentos e crescer como desenvolvedor.  
+-🔭 Atualmente desenvolvendo projetos em Python, Java e C.
+-🌱 Aprendendo Python, Java, SQL e Git/GitHub.
+-🎯 Buscando oportunidades de estágio para aplicar conhecimentos, desenvolver projetos e crescer profissionalmente na área de tecnologia 
 
 
 <br/>  
@@ -23,9 +23,11 @@ Estudante de Ciência da Computação | Futuro Dev Full Stack</div>
 </p>
 
 ### 💡 Em aprendizado:
-- Python para Ciência de Dados e Visão Computacional  
-- Bibliotecas: NumPy, Pandas, OpenCV, matplotlib  
-- Git e GitHub para versionamento de código
+- Programação Orientada a Objetos com Java
+- Desenvolvimento Backend com Python
+- Banco de Dados SQL
+- Versionamento de Código com Git e GitHub
+- Estruturas de Dados e Algoritmos
 
 
 
