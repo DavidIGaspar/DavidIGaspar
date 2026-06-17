@@ -48,7 +48,7 @@ Estudante de Ciência da Computação | Desenvolvedor em Formação</div>
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
 
-<a href="[https://www.instagram.com/david__gaspar/](https://www.instagram.com/d4vdreis/)" target="_blank">
+<a href="https://instagram.com/https://www.instagram.com/d4vdreis/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>  
 
