@@ -5,9 +5,9 @@
 Estudante de Ciência da Computação | Desenvolvedor em Formação</div>  
   
 
--🔭 Atualmente desenvolvendo projetos em Python, Java e C.
--🌱 Aprendendo Python, Java, SQL e Git/GitHub.
--🎯 Buscando oportunidades de estágio para aplicar conhecimentos, desenvolver projetos e crescer profissionalmente na área de tecnologia 
+-🔭 Atualmente desenvolvendo projetos em Python, Java e C.</div> 
+-🌱 Aprendendo Python, Java, SQL e Git/GitHub.</div> 
+-🎯 Buscando oportunidades de estágio para aplicar conhecimentos, desenvolver projetos e crescer profissionalmente na área de tecnologia </div> 
 
 
 <br/>  
